@@ -12,7 +12,7 @@
 
 Software Engineer passionate about building real-world projects(mainly working on backend devlopment), exploring AI, and learning cybersecurity. I enjoy working across the stack, solving problems, and constantly experimenting with new technologies.
 
-🔭 &nbsp;I'm currently working on **Currently working on cybersecurity projects and strengthening my skills in ethical hacking, network security, penetration testing, and security practices.**  
+🔭 &nbsp;I'm currently working on **Cybersecurity projects and strengthening my skills in ethical hacking, network security, penetration testing, and security practices.**  
 🌱 &nbsp;I'm currently learning **Bash, Wireshark and Bug-Bounty**
 
 
