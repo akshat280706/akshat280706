@@ -15,6 +15,23 @@ Software Engineer passionate about building real-world projects(mainly working o
 🔭 &nbsp;I'm currently working on **Currently working on cybersecurity projects and strengthening my skills in ethical hacking, network security, penetration testing, and security practices.**  
 🌱 &nbsp;I'm currently learning **Bash, Wireshark and Bug-Bounty**
 
+---
+
+<h2 align="center">🏅 Holopin Badges</h2>
+
+<p align="center">
+  <a href="https://www.holopin.io/@akshat280706" target="_blank">
+    <img
+      src="https://holopin.me/akshat280706"
+      alt="Holopin Badges"
+      width="720"
+    />
+  </a>
+</p>
+
+
+---
+
 ### 🛠️ Tech Stack
 
 <p align="left">
