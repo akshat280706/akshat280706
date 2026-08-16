@@ -15,7 +15,8 @@ Software Engineer passionate about building real-world projects(mainly working o
 🔭 &nbsp;I'm currently working on **Currently working on cybersecurity projects and strengthening my skills in ethical hacking, network security, penetration testing, and security practices.**  
 🌱 &nbsp;I'm currently learning **Bash, Wireshark and Bug-Bounty**
 
----
+
+
 
 <h2 align="center">🏅 Holopin Badges</h2>
 
@@ -30,7 +31,9 @@ Software Engineer passionate about building real-world projects(mainly working o
 </p>
 
 
----
+
+
+
 
 ### 🛠️ Tech Stack
 
